@@ -1,0 +1,7 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+One London Place,"255 Queens AVE, London, ON Canada",42.9856526,-81.2466678,"255 Queens Ave, London, ON N6A 5R8, Canada",Match,Google
+London Life Office,"255 Dufferin Ave London, ON Canada",42.9871637,-81.2473173,"255 Dufferin Ave, London, ON N6A, Canada",Match,Google
+Western University,"1151 Richmond St, London, ON N6A 3K7",43.0071672,-81.2739582,"1151 Richmond St, London, ON N6A 3K7, Canada",Match,Google
+St Joseph hospital,"268 Grosvenor St, London, ON N6A 4V2",43.0008524,-81.2546028,"268 Grosvenor St, London, ON N6A 3N3, Canada",Partial Match,Google
+Canadian Tire,"1975 Dundas St, London, ON N5V 4Y5",43.0051749,-81.1706978,"1975 Dundas St, London, ON N5V 4Y5, Canada",Match,Google
+Salvation Army,"281 Wellington St, London, ON N6B 2L4",42.9809275,-81.2439862,"281 Wellington St, London, ON N6B 2L4, Canada",Match,Google
